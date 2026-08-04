@@ -1,0 +1,7 @@
+<svg width="320" height="96" viewBox="0 0 320 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="96" rx="20" fill="#050505"/>
+  <path d="M30 24H90L72 72H48L64 38H30V24Z" fill="#FF8C00"/>
+  <path d="M98 24H156L138 72H114L126 40H98V24Z" fill="#D4AF37"/>
+  <text x="172" y="40" fill="white" font-size="18" font-family="Montserrat, Arial" font-weight="700">TRIGUN SECURITY</text>
+  <text x="172" y="63" fill="#D4AF37" font-size="12" font-family="Inter, Arial" letter-spacing="1.4">YOUR SAFETY, OUR COMMITMENT</text>
+</svg>
